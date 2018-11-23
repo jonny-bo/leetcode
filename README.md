@@ -18,5 +18,7 @@
 
 ## 扩展
 
-- [图的深度遍历和广度遍历c语言实现](./array/graph.md)
-- [摩尔投票算法](./array/moer.md)
+- [图的深度遍历和广度遍历c语言实现](./graph.md)
+- [摩尔投票算法](./moer.md)
+- [贪心算法](./tanxin.md)
+- [动态规划](./Dynamic Programming.md)
